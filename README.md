@@ -1,2 +1,1 @@
-# JSMINIPROJECT
-This is my first javascript project.
+"# Javascript-project" 
